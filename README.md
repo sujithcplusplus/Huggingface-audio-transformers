@@ -5,3 +5,5 @@
 **> "speech_to_speech_audio_translation.ipynb"** : Is a Speech to Speech audio translator in English, using **"microsoft/speecht5_tts"** transformer.
 
 **> "Automatic_Speech_Recognition_.ipynb"** : Is an **Automatic Speech Recognition Model** using **"openai/whisper-tiny"** and is fine-tuned on english from **"PolyAI/minds14"** dataset on Huggingface
+
+**> "Audio_classification_for_music.ipynb"** : Is an **Audio Classification** model for Music genre using **"ntu-spml/distilhubert"** and fine-tuned on **"marsyas/gtzan"** dataset on Huggingface
