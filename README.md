@@ -4,11 +4,11 @@
 
 **> "speech_to_speech_audio_translation.ipynb"** : Is a Speech to Speech audio translator in English, using **"microsoft/speecht5_tts"** transformer.
 
-**> "Automatic_Speech_Recognition_.ipynb"** : Is an **Automatic Speech Recognition Model** using **"openai/whisper-tiny"** and is fine-tuned on english from **"PolyAI/minds14"** dataset on Huggingface
+**> "Automatic_Speech_Recognition_.ipynb"** : Is an **Automatic Speech Recognition Model** using **"openai/whisper-tiny"** and is fine-tuned on english from **"PolyAI/minds14"** dataset on Huggingface.
 saved model : https://huggingface.co/kollis/whisper-tiny-en
 
-**> "Audio_classification_for_music.ipynb"** : Is an **Audio Classification** model for Music genre using **"ntu-spml/distilhubert"** and fine-tuned on **"marsyas/gtzan"** dataset on Huggingface
+**> "Audio_classification_for_music.ipynb"** : Is an **Audio Classification** model for Music genre using **"ntu-spml/distilhubert"** and fine-tuned on **"marsyas/gtzan"** dataset on Huggingface.
 saved model : https://huggingface.co/kollis/distilhubert-finetuned-gtzan
 
-**> "Text2speech_fine_tuned.ipynb"** : Is a **Text to Speech** **"microsoft/speecht5_tts"** model finetuned with **dutch** language from **"facebook/voxpopuli"** dataset on Huggingface
+**> "Text2speech_fine_tuned.ipynb"** : Is a **Text to Speech** **"microsoft/speecht5_tts"** model finetuned with **dutch** language from **"facebook/voxpopuli"** dataset on Huggingface.
 saved model : https://huggingface.co/kollis/speecht5_finetuned_voxpopuli_nl
